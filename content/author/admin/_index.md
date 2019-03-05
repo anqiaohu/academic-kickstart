@@ -58,11 +58,6 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "mailto:johnhu@ieee.org"  # For a direct email link, use "mailto:test@example.org".
 
-<!-- [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen" -->
-
 [[social]]
     icon = "linkedin"
     icon_pack = "fab"
