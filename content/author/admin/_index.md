@@ -82,6 +82,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+John Hu is a staff engineer of IC design at Qualcomm. He will join the
+[Getting Started](https://sourcethemes.com/academic/docs/get-started/) at the Oklahoma State University, Stillwater OK
+as an assistant professor in August 2019.
+His research interests include analog, mixed-signal, and power management IC and VLSI design
+in CMOS technologies.
