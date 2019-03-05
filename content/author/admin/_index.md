@@ -34,17 +34,17 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MS, PhD in Electrical and Computer Engineering"
+  course = "PhD in Electrical and Computer Engineering"
   institution = "The Ohio State University"
   year = 2010
 
-#[[education.courses]]
-#  course = "MS in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2007
+[[education.courses]]
+  course = "MS in Electrical and Computer Engineering"
+  institution = "The Ohio State University"
+  year = 2007
 
 [[education.courses]]
-  course = "BEng in Electronics and Information Engineering"
+  course = "BSc in Electronics and Information Engineering"
   institution = "Beihang University"
   year = 2006
 
