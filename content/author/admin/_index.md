@@ -56,22 +56,32 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:johnhu@ieee.org"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
+<!-- [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/GeorgeCushen" -->
+
+[[social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/john-hu-osu/"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=JANb6fYAAAAJ&hl=en"
+
+[[social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0002-6174-8392"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/anqiaohu"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -83,7 +93,9 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 John Hu is a staff engineer of IC design at Qualcomm. He will join the
-[Getting Started](https://sourcethemes.com/academic/docs/get-started/) at the Oklahoma State University, Stillwater OK
+[School of Electrical and Computer Engineering](https://ece.okstate.edu/) at
+[Oklahoma State University](https://go.okstate.edu/), Stillwater OK
 as an assistant professor in August 2019.
-His research interests include analog, mixed-signal, and power management IC and VLSI design
-in CMOS technologies.
+His research interests include all aspects of analog and mixed-signal IC design
+in mainstream CMOS technologies with an emphasis on energy efficiency,
+hardware security, and emerging VLSI applications.
