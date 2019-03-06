@@ -13,7 +13,7 @@ role = "Staff Engineer, IC Design"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Qualcomm", url = "www.qualcomm.com" } ]
+organizations = [ { name = "Qualcomm", url = "http://www.qualcomm.com" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -38,13 +38,13 @@ user_groups = ["Researchers", "Visitors"]
   institution = "The Ohio State University"
   year = 2010
 
-[[education.courses]]
-  course = "MS in Electrical and Computer Engineering"
-  institution = "The Ohio State University"
-  year = 2007
+#[[education.courses]]
+#  course = "MS in Electrical and Computer Engineering"
+#  institution = "The Ohio State University"
+#  year = 2007
 
 [[education.courses]]
-  course = "BSc in Electronics and Information Engineering"
+  course = "BS in Electrical Engineering"
   institution = "Beihang University"
   year = 2006
 
@@ -92,5 +92,5 @@ John Hu is a staff engineer of IC design at Qualcomm. He will join the
 [Oklahoma State University](https://go.okstate.edu/), Stillwater OK
 as an assistant professor in August 2019.
 His research interests include all aspects of analog and mixed-signal IC design
-in mainstream CMOS technologies with an emphasis on energy efficiency,
-hardware security, and emerging VLSI applications.
+in CMOS technologies with emphases on energy efficiency,
+hardware security, and emerging applications.
