@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Staff Engineer"
   company = "Qualcomm"
-  company_url = "www.qualcomm.com"
+  company_url = "http://www.qualcomm.com"
   location = "Arizona"
   date_start = "2016-02-16"
   date_end = ""
@@ -27,17 +27,26 @@ date_format = "Jan 2006"
   Responsibilities include:
 
   * Power management IC design in 40nm and 22nm CMOS
-  * Mixed-signal IC design
+  * Mixed-signal IC design for built-in self test
   * Design-for-Test
   """
 
 [[experience]]
   title = "Member of Technical Staff, IC Design"
   company = "Maxim Integrated"
-  company_url = "www.maximintegrated.com"
+  company_url = "http://www.maximintegrated.com"
   location = "California"
   date_start = "2012-09-19"
   date_end = "2016-02-06"
-  description = """Chip lead and designer for high volumn ."""
+  description = """Chip lead and designer for high volume power management ICs for Samsung Galaxy smartphones and tablets"""
+
+[[experience]]
+  title = "Analog IC Designer"
+  company = "Texas Instruments"
+  company_url = "http://www.ti.com"
+  location = "Texas"
+  date_start = "2011-04-04"
+  date_end = "2012-09-06"
+  description = """N ICs for Samsung Galaxy smartphones and tablets"""
 
 +++
