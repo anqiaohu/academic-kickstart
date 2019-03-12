@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 title = "Academic"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,11 +17,11 @@ hero_media = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
-  
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -33,11 +33,11 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "post/getting-started/"
+  url = "https://sourcethemes.com/academic/docs/install/"
   label = "Get Started"
   icon_pack = "fas"
   icon = "download"
-  
+
 [cta_alt]
   url = "https://sourcethemes.com/academic/"
   label = "View Documentation"

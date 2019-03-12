@@ -23,12 +23,8 @@ date_format = "Jan 2006"
   location = "Arizona"
   date_start = "2016-02-16"
   date_end = ""
-  description = """
-  Responsibilities include:
-
-  * Power management IC design in 40nm and 22nm CMOS
-  * Mixed-signal IC design for built-in self test
-  * Design-for-Test
+  description = """CMOS analog, power management, and mixed-signal IC design. Internet-of-Things.
+  US patents include: 16,124,466, 15,938,942
   """
 
 [[experience]]
@@ -38,7 +34,9 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2012-09-19"
   date_end = "2016-02-06"
-  description = """Chip lead and designer for high volume power management ICs for Samsung Galaxy smartphones and tablets"""
+  description = """Chip lead and architect for high volume power management ICs. Switch-mode battery chargers.
+  US patent include: 62,187,331
+  """
 
 [[experience]]
   title = "Analog IC Designer"
@@ -47,6 +45,6 @@ date_format = "Jan 2006"
   location = "Texas"
   date_start = "2011-04-04"
   date_end = "2012-09-06"
-  description = """N ICs for Samsung Galaxy smartphones and tablets"""
+  description = """LDO design for battery powered IC. Nano power. Wireless Charging."""
 
 +++
