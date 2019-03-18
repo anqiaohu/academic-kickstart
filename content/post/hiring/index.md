@@ -73,7 +73,7 @@ Students with a BS or MS degree in EE or related fields, as well as working prof
 
 1. Highest starting salary among all ECE areas.
 
-2. Highly sought after by companies including [Apple](http://www.apple.com), [Intel](http://www.intel.com), TI, Qualcomm, Samsung, IBM, TSMC, etc., around the world.
+2. Highly sought after by companies including [Apple](https://www.apple.com), [Intel](https://www.intel.com/content/www/us/en/homepage.html), [TI](http://www.ti.com), [Qualcomm](https://www.qualcomm.com), [Samsung](https://www.samsung.com/us/), [IBM](https://www.ibm.com/), [TSMC](https://www.tsmc.com), etc., around the world.
 
 3. (***International students:***) Immigration: Widely sponsored by US companies for EB-1, EB-2 green cards
 
