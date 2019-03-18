@@ -16,7 +16,7 @@ role = "Staff Engineer, IC Design"
 organizations = [ { name = "Qualcomm", url = "http://www.qualcomm.com" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include all aspects of analog and mixed-signal IC design."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "johnhu@ieee.org"

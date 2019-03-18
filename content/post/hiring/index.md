@@ -1,22 +1,23 @@
 +++
-title = "Full Scholarship for PhD"
-subtitle = "Two GRA Positions Available in IC Design"
+title = "We are hiring!"
+subtitle = "Two GRA positions available for PhD in IC design"
+math = true
 
 # Add a summary to display on homepage (optional).
-summary = "CMOS VLSI Lab led by Dr. Hu is seeking talented individuals for two (2) Ph.D. positions with full scholarship starting Fall 2019 or Spring 2020."
+summary = "Dr. Hu is seeking talented students or working professionals for two (2) Ph.D. positions with graduate research assistant (GRA) appointment."
 
-date = 2019-03-11T22:32:30-07:00
+date = 2019-03-17T22:22:07-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["John Hu"]
+authors = []
 
 # Is this a featured post? (true/false)
 featured = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Team", "Hiring", "Scholarship", "RA"]
+tags = []
 categories = []
 
 # Projects (optional).
@@ -31,9 +32,21 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "OSU Edmon Low Library"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+Dr. Hu is seeking talented individuals for the following positions with graduate research assistant (GRA) appointment starting Fall 2019 or Spring 2020:
+
+|      |  Number   |       Funding Description       |
+| -----| ----------| --------------------------------|
+| PhD  | Two (2)   | Fully-funded. (tuition waiver + stipend + benefits by OSU)   |
+| MS   | Unlimited | Half or self-funded.            |
+
+Students with a BS or MS degree in EE or related fields, as well as working professionals are encouraged to apply. Some preferred qualifications (not required) include:
+
+1. IC design, tape-out, and measurement experiences
+
+2. GRE and TOEFL scores
