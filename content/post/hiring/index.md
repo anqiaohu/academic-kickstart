@@ -47,9 +47,9 @@ Dr. Hu is seeking talented individuals for the following positions with graduate
 
 Students with a BS or MS degree in EE or related fields, as well as working professionals are encouraged to apply. Minimum qualifications include:
 
-1. GRE (>300 combined)
+1. GRE (>=300 combined)
 
-2. (***International students:***) TOEFL (>79) or IELTS (>6.5), unless a bachelor's or masters's degree from a US institution is received.
+2. (***International students:***) TOEFL (>=79) or IELTS (>=6.5), unless a bachelor's or masters's degree from a US institution is received.
 
 Preferred qualifications (not required) include:
 
