@@ -45,13 +45,13 @@ Dr. Hu is seeking talented individuals for the following positions with graduate
 | PhD  | Two (2)   | Fully-funded. (tuition waiver + stipend + benefits by OSU)   |
 | MS   | Unlimited | Half or self-funded.            |
 
-Students with a BS or MS degree in EE or related fields, as well as working professionals are encouraged to apply. Some preferred qualifications (not required) include:
+Students with a BS or MS degree in EE or related fields, as well as working professionals are encouraged to apply. Some preferred qualifications include:
 
 1. IC design, tape-out, and measurement experiences
 
-2. (***International students:***) GRE and TOEFL scores
+2. (***International students:***) GRE (>300 combined) is **required**. TOEFL (>79) or IELTS (>6.5) is also **required** unless you have received a degree from a US institution.
 
-**Deadline:**  April 15, 2019 (Fall 2019 admission) and Jun 30, 2019 (Spring 2020 admission)
+**Deadline:**  A.S.A.P. but no later than May 30, 2019 (Fall 2019 admission) and Jun 30, 2019 (Spring 2020 admission)
 
 **Start Date:** August 2019 or January 2020
 
